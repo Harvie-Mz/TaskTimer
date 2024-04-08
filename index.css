@@ -1,0 +1,75 @@
+html{
+    width: 100vw;
+    height: 100vh;
+  }
+  body {
+    -webkit-app-region : drag;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+      Arial, sans-serif;
+    margin: auto;
+    max-width: 38rem;
+    /* padding: 2rem; */
+    text-align: center;
+    background-color: rgb(54, 53, 53);
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    padding: 1%;
+    overflow: hidden;
+    display: flex;
+  
+  }
+  
+  h1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+      Arial, sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-size: 50px;
+    line-height: 0.0001px;
+    color: rgb(255, 255, 255);
+  }
+  h4{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+      Arial, sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+    line-height: 0.0001px;
+    color: rgb(255, 255, 255);
+  }
+  /* h5{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+      Arial, sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-size: 50px;
+    line-height: 0.0001px;
+    color: rgb(255, 255, 255);
+  } */
+  .Flag{
+    width: 10px;
+    height: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: rgb(255, 0, 0);
+  }
+  
+  .ad{
+    width: 10px;
+    height: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    color: rgb(255, 255, 255);
+  }
+  
